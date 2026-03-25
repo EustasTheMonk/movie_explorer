@@ -19,7 +19,7 @@ const Watchlist: React.FC = () => {
       )) : (
         <div className={'text-[20px] text-white w-full flex items-center flex-col col-span-full'}>
           <p>Your watchlist is empty. Add some movies or TV shows to it from the search page!</p>
-          <Link to={routes.SearchPage} >
+          <Link to={routes.Home} >
             <Button size={'lg'} className={'h-[80px] text-[30px] mt-[10px]'}>Search page</Button>
           </Link>
         </div>

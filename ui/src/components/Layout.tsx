@@ -11,7 +11,7 @@ const Layout: React.FC = () => {
         <div
           className={'h-15 w-full flex justify-end gap-2 items-center max-w-[1600px] px-4 mx-auto'}
         >
-      <NavLink className={'h-min'} to={routes.SearchPage}>
+      <NavLink className={'h-min'} to={routes.Home}>
         {({isActive}) => (
           <Button
             variant={isActive ? "secondary" : "default"} size={'default'}

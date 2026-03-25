@@ -10,7 +10,6 @@ export const router = createBrowserRouter([
     element: <Layout />,
     children: [
       {
-        path: routes.SearchPage,
         element: <Search />,
         index: true
       },
