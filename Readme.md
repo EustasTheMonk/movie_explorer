@@ -1,5 +1,7 @@
 # Movie Explorer
 
+Preview - [Movie explorer](https://movie-explorer-oasw.vercel.app?_vercel_share=pRbHRIS4yxj6DIEQ4ZJiSmZyOkxthbD0)
+
 ## Prerequisites
 - Node.js 18+
 - TMDB API key — get it at [themoviedb.org](https://www.themoviedb.org/settings/api)
