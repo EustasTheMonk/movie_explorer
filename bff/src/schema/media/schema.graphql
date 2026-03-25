@@ -1,0 +1,17 @@
+extend type Query {
+    search(query: String!): [Media!]!
+}
+
+type Media {
+    id: ID!
+    title: String!
+    poster: String
+    year: String
+    rating: Float
+    type: MediaType!
+}
+
+enum MediaType {
+    MOVIE
+    TV
+}

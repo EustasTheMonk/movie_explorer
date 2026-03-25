@@ -1,0 +1,15 @@
+bff/.env
+ui/.env
+
+bff/.idea
+ui/.idea
+
+bff/node_modules
+ui/node_modules
+
+bff/dist
+ui/dist
+
+node_modules
+
+.idea
