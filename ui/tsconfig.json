@@ -1,8 +1,8 @@
 {
   "files": [],
-  "verbatimModuleSyntax": false,
-  "skipLibCheck": true,
   "compilerOptions": {
+    "verbatimModuleSyntax": false,
+    "skipLibCheck": true,
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
